@@ -7,8 +7,8 @@ would accept, and it emails you when a matching seat frees up or when new
 dates go on sale. Runs entirely on GitHub Actions: no server, no email
 provider, no API keys, nothing to pay for.
 
-Built to catch cancellations for The Odyssey in IMAX 70mm, which sold out
-weeks ahead at every theater that can project it. Good seats reappear all the
+Built to catch cancellations for Dune: Part III in IMAX 70mm, which sold out
+months ahead at every theater that can project it. Good seats reappear all the
 time. Someone returns two tickets, a hold expires, and the seats go to whoever
 happens to be looking. This looks every 30 minutes so you don't have to.
 
